@@ -12,6 +12,9 @@ This project involves the creation of a comprehensive MS Excel dashboard aimed a
 - **User-Friendly Interface**: Developed a user-friendly dashboard interface that allows stakeholders to monitor store metrics in real-time.
 - **Actionable Recommendations**: Provided actionable insights to empower decision-making and optimize sales performance.
 
+![image](https://github.com/sethihardik45/SalesDataAnalysis/assets/143828829/d35f9585-f444-41a3-9ead-bc605e3bf315)
+
+
 ## Dashboard Components
 
 1. **Sales Overview**: Visualizes total sales, monthly sales trends, and sales breakdown by product category.
